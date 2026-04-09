@@ -146,3 +146,16 @@ The results show how bandwidth and connectivity are affected by network conditio
 * POX Controller Documentation
 
 ---
+##  Screenshots
+
+* Screenshot1=> pingall working mininet
+* Screenshot2=> Pox working
+* Screenshot3=> mininet with full bandwidth testing
+* Screenshot4=> Pox working continued
+* Screenshot5=> mininet with bw=10
+* Screenshot6=> ovs-ofctl ss
+* Screenshot7=> all connections working ping all(0%drop)
+* Screenshot6=> one connection down(partial drop)
+
+---
+
